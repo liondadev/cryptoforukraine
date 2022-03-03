@@ -1,0 +1,40 @@
+.nav-links-body {
+    background: rgb(45, 45, 45);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 3em;
+    padding: 0 1em;
+}
+
+.nav-links-name-container {
+    display: flex;
+    gap: 0.5em;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-links-links-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.nav-links-name {
+    color: white;
+}
+
+.nav-links-icon {
+    width: 1em;
+    color: white;
+}

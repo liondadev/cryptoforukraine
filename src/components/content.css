@@ -1,11 +1,12 @@
 .content-body {
-    background: honeydew;
+    background: #202020;
+    color: white;
+    padding: 1em;
 }
 
 span {
     color: Gold;
 }
-
 
 .content-addresses {
     display: flex;
@@ -22,6 +23,17 @@ span {
     color: white;
     padding: 0.5em;
     width: 100%;
+    font-size: 1em;
+    transition: 0.15s;
+    border: none;
+}
+
+.animate__animated.animate__bounce {
+    --animate-duration: 2s;
+}
+
+.address-box-content:hover {
+    transform: scale(105%, 105%);
 }
 
 .address-box-type {
@@ -40,8 +52,18 @@ span {
 
 .content-donation-type {
     width: 5vw;
+    transition: 0.15s;
+}
+
+.content-donation-type:hover {
+    transform: scale(105%, 105%);
 }
 
 .verify {
-    color: blueviolet;
+    color: gold;
+    text-decoration: none;
+}
+
+.verify:hover {
+    text-decoration: underline;
 }

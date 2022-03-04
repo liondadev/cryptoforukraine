@@ -1,4 +1,5 @@
 import "./navlinks.css"
+import 'animate.css';
 
 function NavLinks() {
     return (<div className="nav-links-body">
@@ -9,8 +10,9 @@ function NavLinks() {
             <p className="nav-links-name">CryptoForUkraine.net</p>
         </div>
         <div className="nav-links-links-container">
+            <a href="https://www.coinbase.com/signup">Buy Crypto</a>
             <a href="https://twitter.com/ukraine/status/1497594592438497282">Twitter Post</a>
-            <a href="#">President's Twitter</a>
+            <a href="https://twitter.com/ZelenskyyUa">President's Twitter</a>
         </div>
     </div>)
 }

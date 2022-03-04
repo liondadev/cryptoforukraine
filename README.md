@@ -5,9 +5,9 @@ Not a real website, just an idea...
 
 ### Donate Your Cryptocurrency!
 
-**Bitcoin:** 357a3So9CbsNfBBgFYACGvxxS6tMaDoa1P
-**ETH / USDT:** 0x165CD37b4C644C2921454429E7F9358d18A45e14
-**Polkadot:** 1x8aa2N2Ar9SQweJv9vsuZn3WYDHu7gMQu1RePjZuBe33Hv
+**Bitcoin:** 357a3So9CbsNfBBgFYACGvxxS6tMaDoa1P <br>
+**ETH / USDT:** 0x165CD37b4C644C2921454429E7F9358d18A45e14 <br>
+**Polkadot:** 1x8aa2N2Ar9SQweJv9vsuZn3WYDHu7gMQu1RePjZuBe33Hv <br>
 
 #### Or
 

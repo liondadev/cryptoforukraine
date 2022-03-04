@@ -11,7 +11,7 @@ function AddressBox(props) {
 function Content() {
     return (<div className="content-body animate__animated animate__zoomInDown">
 
-        <h1>Donate Crypto to <span>Ukraine</span></h1>
+        <h1>Give to <span>Ukraine</span></h1>
 
         <div className="content-donation-types">
             {/* Bitcoin */}

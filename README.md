@@ -11,5 +11,5 @@ Not a real website, just an idea...
 
 #### Or
 
-### Help make this a real website to raise awareness
+### Help make this a real website and share the link
 If you have the spare funs for a domain, feel free to contact me (Lion#3933) on discord. **You could also buy the domain yourself and host the website.**

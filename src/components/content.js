@@ -2,14 +2,14 @@ import "./content.css";
 import 'animate.css';
 
 function AddressBox(props) {
-    return (<div className="address-box-container animate__animated animate__bounce">
+    return (<div className="address-box-container">
         <p className="address-box-type">{props.type || "Crypto Address"}</p>
         <button className="address-box-content" onClick={() => {navigator.clipboard.writeText("ho")}}>{props.add || "696969696969696969696969696"}</button>
     </div>)
 }
 
 function Content() {
-    return (<div className="content-body animate__animated animate__zoomInDown">
+    return (<div className="content-body">
 
         <h1>Give to <span>Ukraine</span></h1>
 

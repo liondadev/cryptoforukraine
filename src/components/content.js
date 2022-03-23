@@ -4,7 +4,7 @@ import 'animate.css';
 function AddressBox(props) {
     return (<div className="address-box-container">
         <p className="address-box-type">{props.type || "Crypto Address"}</p>
-        <button className="address-box-content" onClick={() => {navigator.clipboard.writeText("ho")}}>{props.add || "696969696969696969696969696"}</button>
+        <button className="address-box-content" onClick={() => {navigator.clipboard.writeText(props.add)}}>{props.add || "696969696969696969696969696"}</button>
     </div>)
 }
 
